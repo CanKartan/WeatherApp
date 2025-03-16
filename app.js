@@ -1,4 +1,4 @@
-const apiKey = "b7f7fde544bb34c99f4bcc20d9cffbba";
+const apiKey = "...";
 const url = "https://api.weatherstack.com/current?&query=";
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
